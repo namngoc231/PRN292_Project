@@ -1,0 +1,12 @@
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiem\bin\Quanlydiem.dll.config
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiem\bin\Quanlydiem.dll
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiem\bin\Quanlydiem.pdb
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiem\obj\Debug\Quanlydiem.csprojAssemblyReference.cache
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiem\obj\Debug\Quanlydiem.csproj.CoreCompileInputs.cache
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiem\obj\Debug\Quanlydiem.dll
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiem\obj\Debug\Quanlydiem.pdb
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiem\obj\Debug\Quanlydiem.Properties.Resources.resources
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiem\obj\Debug\Quanlydiem.csproj.GenerateResource.cache
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiem\bin\Quanlydiemsv.exe
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiem\bin\Quanlydiemsv.pdb
+C:\Users\Nam Ngoc\source\repos\Quanlydiemsv\Quanlydiem\obj\Debug\Quanlydiem.csproj.CopyComplete
